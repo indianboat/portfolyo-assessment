@@ -1,0 +1,1 @@
+export const BASE_API_URL="https://portfolio-backend-30mp.onrender.com"
